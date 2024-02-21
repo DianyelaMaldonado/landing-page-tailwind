@@ -1,0 +1,11 @@
+# info matching with gh-pages
+baseurl: "/landing-page-tailwind/"
+url: "https://dianyelamaldonado.github.io"
+
+# metadata
+title: "landing-page-tailwind"
+description: "Practicing the basics of Tailwind CSS"
+
+# page information
+author-name: Dianyela Maldonado
+author-bio: Web Developler
